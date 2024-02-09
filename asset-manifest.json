@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MovieTheater/static/css/main.36d8b934.css",
+    "main.js": "/MovieTheater/static/js/main.a6ea6936.js",
+    "static/js/592.24828001.chunk.js": "/MovieTheater/static/js/592.24828001.chunk.js",
+    "index.html": "/MovieTheater/index.html",
+    "main.36d8b934.css.map": "/MovieTheater/static/css/main.36d8b934.css.map",
+    "main.a6ea6936.js.map": "/MovieTheater/static/js/main.a6ea6936.js.map",
+    "592.24828001.chunk.js.map": "/MovieTheater/static/js/592.24828001.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36d8b934.css",
+    "static/js/main.a6ea6936.js"
+  ]
+}
